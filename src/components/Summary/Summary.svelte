@@ -13,6 +13,7 @@
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
+    font-size: 1.4rem;
     color: #555;
   }
 

@@ -57,17 +57,20 @@
 
     padding-bottom: 15mm;
     display: grid;
-    row-gap: 2rem;
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
+    page-break-before: always;
+    page-break-after: always;
   }
 
   .page__title {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     text-transform: uppercase;
-    font-size: 2.4rem;
+    font-size: 2.2rem;
     background-image: linear-gradient(var(--accent-background), var(--accent-background));
     background-repeat: no-repeat;
     background-size: 1.5em .1em;

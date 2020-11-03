@@ -22,7 +22,7 @@
   }
 
   .title {
-    font-size: 4.2rem;
+    font-size: 3.2rem;
     font-weight: 700;
     padding-bottom: 0.25em;
   }
