@@ -1,0 +1,133 @@
+{
+  "background": "#846fe8",
+  "color": "white",
+  "firstName": "Vladyslava",
+  "lastName": "Omelianchuk",
+  "contacts": [
+    {
+      "title": "Tel",
+      "value": "+38 (063) 317 45 97"
+    },
+    {
+      "title": "E-mail",
+      "value": "vlada.omelianchuk@gmail.com"
+    },
+    {
+      "title": "LinkedIn",
+      "value": "https://www.linkedin.com/in/vladyslava-omelianchuk/"
+    },
+    {
+      "title": "Skype",
+      "value": "vlada_kpi"
+    }
+  ],
+  "summary": {
+    "title": "Summary",
+    "text": [
+      "Self-driven HR Manager/People Partner with 3+ years of experience in human resources and technical recruiting both in outsourcing/outstaffing companies and recruitment agency. Have experience of HR/recruitment practices design and implementation from scratch, as well as operational processes improvement. For the last 2 years, I have been working mostly as People Partner combining business goals with people management and now I am assured this is my true passion :)",
+      ""
+    ]
+  },
+  "timelines": [
+    {
+      "title": "Experience",
+      "content": [
+        {
+          "from": "12/2019",
+          "to": "Present",
+          "title": "HR Manager",
+          "subtitle": "Mobilunity | Kyiv",
+          "text": [
+            "Providing a full scope of HR practices (onboarding and offboarding, probation period control, adaptation, motivation, retention, employer branding, regular one-to-one meetings, organization of corporate events, internal communications, compensations and benefits, employees assessments, salary reviews, procedures and policies implementation, etc.);",
+            "Advising and supporting TOP stakeholders on people management issues;",
+            "HR initiatives and projects design and implementation from scratch (performance management, eNPS surveys, new internal processes for remote work, employees absence management, etc.);",
+            "Line management of 3 employees;",
+            "Talent acquisition of D and C-level candidates;",
+            "Close cooperation with CEO and Staff Services Unit Director regarding human resources/people management issues."
+          ]
+        },
+        {
+          "from": "09/2019",
+          "to": "12/2019",
+          "title": "HR Manager",
+          "subtitle": "OXNP | Kyiv",
+          "text": [
+            "Providing strategic and tactical consultation to executives on people management aspects of their business;",
+            "Developing and implementing HR processes from scratch;",
+            "Conducting a full cycle of talent acquisition;",
+            "Manage onboarding and offboarding processes, salary reviews;",
+            "Implement cultural initiatives;",
+            "Monitoring the situation in the team: identifying conflict situations and providing assistance in resolving."
+          ]
+        },
+        {
+          "from": "03/2018",
+          "to": "09/2019",
+          "title": "People Partner / IT Recruiter",
+          "subtitle": "IDAP | Kyiv",
+          "text": [
+            "Providing full life cycle recruiting process (preparing, sourcing, screening, selecting, hiring, onboarding);",
+            "Development and implementation of a recruitment strategy;",
+            "Close collaboration with CEO/CTO/COO regarding all issues related to recruitment/HR, 'red flags' identifying;",
+            "Job market analyses and reviews;",
+            "Providing relevant statistics and reports of HR/recruitment processes based on key metrics;",
+            "Hiring managers and technical interviewers consultation;",
+            "Close cooperation with HRD to support and improve all HR practices as People Partner (adaptation, motivation, retention, employer branding, one-to-one meetings, exit interviews, organization of corporate events, internal communications, compensations and benefits, personnel records, participation in salary reviews process, corporate culture building)."
+          ]
+        },
+        {
+          "from": "09/2017",
+          "to": "02/2018",
+          "title": "IT Researcher",
+          "subtitle": "Skillers | Kyiv",
+          "text": [
+            "Writing and posting job descriptions;",
+            "Searching for resumes/profiles matching the job requisition requirements, evaluating and select best matching resumes;",
+            "Maintaining and updating internal database;",
+            "Briefing candidates regarding the job description, company profile, and career perspectives;",
+            "Scheduling interviews, prescreening candidates via phone/skype interview with recruiter;",
+            "Giving feedbacks, taking references, and building a long-term relationship with candidates."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "EDUCATION",
+      "content": [
+        {
+          "from": "2013",
+          "to": "2017",
+          "title": "National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'",
+          "subtitle": "Bachelor of Arts",
+          "text": [
+            "Faculty of Linguistics,",
+            "English Philology, Translation"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "title": "LANGUAGES",
+    "content": [
+      {
+        "title": "RUSSIAN",
+        "text": [
+          "native"
+        ]
+      },
+      {
+        "title": "UKRAINIAN",
+        "text": [
+          "native"
+        ]
+      },
+      {
+        "title": "ENGLISH",
+        "text": [
+          "upper-intermediate"
+        ]
+      }
+    ]
+  }
+}
